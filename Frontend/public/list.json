@@ -3,55 +3,59 @@
     "id": 1,
     "name": "Book 1",
     "author": "Author 1",
+    "price":"free",
     "description": "Description 1",
-    "catergory": "free",
-    "price": 100,
-    "image": "image1.jpg"
+    "catergory": "song",
+    "image": "https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040297.jpg?t=st=1717698914~exp=1717702514~hmac=6da1616e2a4c0287e183d55da627d7f33a1cca40cb0ff0611eb3164b9e342cd0&w=740"
   },
   {
     "id": 2,
     "name": "Book 1",
     "author": "Author 1",
+    "price":"free",
     "description": "Description 1",
     "catergory": "free",
-    "price": 100,
-    "image": "image1.jpg"
+   
+    "image": "https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040297.jpg?t=st=1717698914~exp=1717702514~hmac=6da1616e2a4c0287e183d55da627d7f33a1cca40cb0ff0611eb3164b9e342cd0&w=740"
   },
   {
     "id": 3,
     "name": "Book 1",
     "author": "Author 1",
+    "price":"free",
     "description": "Description 1",
     "catergory": "free",
-    "price": 100,
-    "image": "image1.jpg"
+    
+    "image": "https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040297.jpg?t=st=1717698914~exp=1717702514~hmac=6da1616e2a4c0287e183d55da627d7f33a1cca40cb0ff0611eb3164b9e342cd0&w=740"
   },
   {
     "id": 4,
     "name": "Book 1",
     "author": "Author 1",
+    "price":"free",
     "description": "Description 1",
     "catergory": "free",
-    "price": 100,
-    "image": "image1.jpg"
+    
+    "image": "https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040297.jpg?t=st=1717698914~exp=1717702514~hmac=6da1616e2a4c0287e183d55da627d7f33a1cca40cb0ff0611eb3164b9e342cd0&w=740"
   },
   {
     "id": 5,
     "name": "Book 1",
     "author": "Author 1",
+    "price":"free",
     "description": "Description 1",
     "catergory": "free",
-    "price": 100,
-    "image": "image1.jpg"
+    
+    "image": "https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040297.jpg?t=st=1717698914~exp=1717702514~hmac=6da1616e2a4c0287e183d55da627d7f33a1cca40cb0ff0611eb3164b9e342cd0&w=740"
   },
   {
     "id": 6,
     "name": "Book 1",
     "author": "Author 1",
+    "price":"free",
     "description": "Description 1",
     "catergory": "free",
-    "price": 100,
-    "image": "image1.jpg"
+    "image": "https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040297.jpg?t=st=1717698914~exp=1717702514~hmac=6da1616e2a4c0287e183d55da627d7f33a1cca40cb0ff0611eb3164b9e342cd0&w=740"
   }
 
 ]

@@ -12,13 +12,14 @@ const URI=process.env.MongoDBURI;
 try {
     mongoose.connect(URI,{
         useNewUrlParser:true,
-        useUniFiedParser:true,
-    }
+        useUnifiedTopology:true
 
+    });
+    console.log("Connected to mongoose server on mongodb")
+ 
 } catch (error) {
-
+    console.error("Error", error);
 }
-c
 app.listen(PORT, () => {
   console.log(`Example app listening on port ${PORT}`);
 });
