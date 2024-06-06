@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Book 1",
+    "author": "Author 1",
+    "description": "Description 1",
+    "catergory": "free",
+    "price": 100,
+    "image": "image1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Book 1",
+    "author": "Author 1",
+    "description": "Description 1",
+    "catergory": "free",
+    "price": 100,
+    "image": "image1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Book 1",
+    "author": "Author 1",
+    "description": "Description 1",
+    "catergory": "free",
+    "price": 100,
+    "image": "image1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Book 1",
+    "author": "Author 1",
+    "description": "Description 1",
+    "catergory": "free",
+    "price": 100,
+    "image": "image1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Book 1",
+    "author": "Author 1",
+    "description": "Description 1",
+    "catergory": "free",
+    "price": 100,
+    "image": "image1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Book 1",
+    "author": "Author 1",
+    "description": "Description 1",
+    "catergory": "free",
+    "price": 100,
+    "image": "image1.jpg"
+  }
+
+]
