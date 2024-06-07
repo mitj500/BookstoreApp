@@ -13,3 +13,5 @@ export default function AuthProvider({ children }) {
   );
 }
 export const useAuth = () => useContext(AuthContext);
+
+//authproveider helps in authentication of the user
