@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import Cards from "./Cards";
-import list from "../../public/list.json"
 import axios from "axios";
 import { Link } from "react-router-dom";
 function Course() {
